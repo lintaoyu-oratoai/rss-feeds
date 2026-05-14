@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Soniox Blog</title>
+    <link>https://soniox.com/blog</link>
+    <description>Speech recognition, voice AI, and product updates from Soniox</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_soniox.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 02:05:16 +0000</lastBuildDate>
+    <item>
+      <title>Soniox debuts AI Speech Recognition Platform</title>
+      <link>https://soniox.com/blog/2021-05-13-soniox-launch</link>
+      <description>Soniox Inc launched the Soniox AI Speech Recognition Platform, the world’s first self-learning artificial intelligence for automatic speech recognition.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2021-05-13-soniox-launch</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox releases Knowledge Augmented Audio AI</title>
+      <link>https://soniox.com/blog/2021-07-28-knowledge-augmented-audio-ai</link>
+      <description>Soniox has developed Soniox Knowledge Graph to further enhance the accuracy of Soniox Speech Recognition AI and to provide relevant contextual information about the recognized speech in the audio.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2021-07-28-knowledge-augmented-audio-ai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox speech-to-text benchmarks November 2022</title>
+      <link>https://soniox.com/blog/2022-11-30-benchmarks</link>
+      <description>Speech-to-Text benchmarks comparing Soniox, Google, AWS, Azure, Rev AI, Deepgram, AssemblyAI, OpenAI and Speechmatics on 4 different real-world datasets in the English language.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2022-11-30-benchmarks</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox and OpenAI speech recognition benchmarks March 2023</title>
+      <link>https://soniox.com/blog/2023-03-06-benchmarks</link>
+      <description>Speech Recognition benchmarks comparing Soniox and OpenAI Whisper on 5 different real-world datasets varying in acoustic conditions, speaking styles, accents and topics in the English language.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-03-06-benchmarks</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech recognition benchmarks for German and Spanish March 2023</title>
+      <link>https://soniox.com/blog/2023-03-23-benchmarks</link>
+      <description>Speech recognition benchmarks comparing Soniox, Google, AWS, Azure, Rev AI, Deepgram, AssemblyAI, OpenAI, Speechmatics and NVIDIA on Spanish and German languages.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-03-23-benchmarks</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Release of Soniox 2.0: Transcribe, store, search, analyze and understand audio on one platform</title>
+      <link>https://soniox.com/blog/2023-05-22-soniox-audio-ai-infrastructure</link>
+      <description>Soniox Inc released an audio AI infrastructure that enables developers and businesses to transcribe, store, search and understand audio on one platform These are the core building blocks for any audio/voice/speech application.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-05-22-soniox-audio-ai-infrastructure</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox Speech AI achieves extreme accuracy</title>
+      <link>https://soniox.com/blog/2023-09-13-soniox-speech-ai-extreme-accuracy</link>
+      <description>We have released groundbreaking speech recognition AI, achieving extreme levels of accuracy and unlocking new possibilities in human-machine interaction.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-09-13-soniox-speech-ai-extreme-accuracy</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Korean speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-09-19-korean</link>
+      <description>We have introduced game-changing Soniox Korean speech recognition AI, capable of recognizing both Korean and English speech with extreme precision.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-09-19-korean</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-10-04-chinese</link>
+      <description>We are thrilled to announce the release of our groundbreaking Chinese speech recognition AI, achieving unparalleled precision and comprehension of the Chinese language.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-10-04-chinese</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spanish speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-10-11-spanish</link>
+      <description>We are super excited to announce our groundbreaking AI that can simultaneously recognize Spanish and English speech with extreme precision.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-10-11-spanish</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>French speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-10-18-french</link>
+      <description>We are thrilled to introduce a pioneering AI technology capable of recognizing both French and English speech with unparalleled precision.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-10-18-french</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-10-25-italian</link>
+      <description>We are unveiling a cutting-edge bilingual AI model proficient in discerning both Italian and English with unparalleled accuracy.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-10-25-italian</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox and Scribe elevate efficiency and accuracy of medical documentation</title>
+      <link>https://soniox.com/blog/2023-11-08-soniox-and-scribe</link>
+      <description>Soniox and Scribe are pleased to announce the integration of Soniox&amp;#x27;s groundbreaking speech recognition AI into Scribe&amp;#x27;s world-class platform and integration technologies for mobile and desktop.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-11-08-soniox-and-scribe</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portuguese speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-12-06-portuguese</link>
+      <description>We are thrilled to announce our new groundbreaking AI that can simultaneously recognize Portuguese and English speech with extreme precision.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-12-06-portuguese</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>German speech recognition AI</title>
+      <link>https://soniox.com/blog/2023-12-13-german</link>
+      <description>A small gift from Soniox before the holidays: a groundbreaking AI capable of recognizing German and English speech simultaneously with extreme precision.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2023-12-13-german</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox 7B</title>
+      <link>https://soniox.com/blog/2024-01-19-soniox-7B</link>
+      <description>Most powerful 7B large language model. Supports English and code with 8K context. Matches GPT-4 performance on some benchmarks. Built on top of Mistral 7B, enhanced with additional pre-training and fine-tuning for strong problem-solving capabilities.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2024-01-19-soniox-7B</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>One speech AI for the world</title>
+      <link>https://soniox.com/blog/2025-04-25-one-speech-ai-for-the-world</link>
+      <description>Soniox Speech-to-Text AI — a single, universal model that understands speech in over 60 languages, in real-time, with high accuracy. And more importantly, it works the way people actually speak.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-04-25-one-speech-ai-for-the-world</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Soniox App</title>
+      <link>https://soniox.com/blog/2025-05-06-introducing-soniox-app</link>
+      <description>The first mobile app powered by a universal speech AI model that delivers real-time, high-accuracy transcription in over 60 languages.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-05-06-introducing-soniox-app</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just launched: Real-time speech translation AI for the world</title>
+      <link>https://soniox.com/blog/2025-06-17-realtime-multilingual-translation-ai</link>
+      <description>Today, we’re launching real-time multilingual speech translation in the Soniox API, as well as a brand new mobile app that brings the same technology to your pocket.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-06-17-realtime-multilingual-translation-ai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fastest way to find out which voice AI actually works</title>
+      <link>https://soniox.com/blog/2025-07-15-soniox-compare</link>
+      <description>Choosing a speech API isn’t just about specs. It’s about what happens when real-life audio hits the system.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-07-15-soniox-compare</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox v3</title>
+      <link>https://soniox.com/blog/2025-10-21-soniox-v3</link>
+      <description>Soniox v3 is our most advanced speech AI yet — designed for accuracy, fluency, and speed at scale.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-10-21-soniox-v3</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free credits update for Soniox API</title>
+      <link>https://soniox.com/blog/2025-10-27-free-credits-update-for-soniox-api</link>
+      <description>We’re discontinuing free API credits due to widespread abuse and spam signups.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-10-27-free-credits-update-for-soniox-api</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the new Soniox App: transcribe, translate, and understand any speech, in any language</title>
+      <link>https://soniox.com/blog/2025-11-05-soniox-app</link>
+      <description>Soniox App brings the world’s most advanced speech AI into your pocket.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-11-05-soniox-app</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox Sovereign Cloud for effortlessly global, compliant, and performant speech AI</title>
+      <link>https://soniox.com/blog/2025-11-19-sovereign-cloud</link>
+      <description>Sovereign Cloud is now available, letting you run Soniox in regions where your users and data live.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-11-19-sovereign-cloud</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Soniox App for business</title>
+      <link>https://soniox.com/blog/2025-12-09-soniox-app-business</link>
+      <description>A shared space for your team’s calls, meetings, and interviews.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2025-12-09-soniox-app-business</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox App: Everything you do with voice in your language</title>
+      <link>https://soniox.com/blog/2026-01-15-everything-you-do-with-voice</link>
+      <description>The Soniox App is now one unified voice workspace.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2026-01-15-everything-you-do-with-voice</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox v4 Async: Human-parity speech recognition across 60+ languages</title>
+      <link>https://soniox.com/blog/2026-01-29-soniox-v4-async</link>
+      <description>We’re launching Soniox v4 Async, a major leap forward in speech recognition.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2026-01-29-soniox-v4-async</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox v4 Real-Time: The new standard for real-time speech AI</title>
+      <link>https://soniox.com/blog/2026-02-05-soniox-v4-real-time</link>
+      <description>A speech recognition model purpose-built for low-latency voice interactions.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/2026-02-05-soniox-v4-real-time</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The end of English-first voice AI, now on desktop</title>
+      <link>https://soniox.com/blog/soniox-desktop-end-of-english-first-voice-ai</link>
+      <description>Work, think, and use your voice in your own language.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/soniox-desktop-end-of-english-first-voice-ai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soniox named best-in-class STT for voice agents</title>
+      <link>https://soniox.com/blog/soniox-named-best-in-class-for-voice-agents</link>
+      <description>In a comprehensive study by Daily (Pipecat), Soniox was recognized as a top-tier provider for real-time voice agents.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/soniox-named-best-in-class-for-voice-agents</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Soniox SDKs</title>
+      <link>https://soniox.com/blog/new-soniox-sdks</link>
+      <description>Introducing the new Soniox SDKs for Python, Node, Web, React, and React Native.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/new-soniox-sdks</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Soniox Text-to-Speech</title>
+      <link>https://soniox.com/blog/soniox-text-to-speech</link>
+      <description>Generate high-fidelity speech in 60+ languages, built for names, alphanumerics, language switching, and ultra-low-latency streaming.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/soniox-text-to-speech</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build a multilingual voice bot with Pipecat and Soniox</title>
+      <link>https://soniox.com/blog/voice-bot-with-pipecat-and-soniox</link>
+      <description>Soniox Text-to-Speech is now fully available in Pipecat. Plug it in and build your multilingual voice bot with Soniox API.</description>
+      <guid isPermaLink="false">https://soniox.com/blog/voice-bot-with-pipecat-and-soniox</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:04:35 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

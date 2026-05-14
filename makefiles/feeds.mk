@@ -248,6 +248,78 @@ feeds_weaviate_full: ## Generate RSS feed for Weaviate Blog (full reset)
 	$(Q)uv run feed_generators/weaviate_blog.py --full
 	$(call print_success,Weaviate Blog feed generated - full reset)
 
+## ----- Orato fork additions: ASR / voice-AI vendors -----
+
+.PHONY: feeds_soniox
+feeds_soniox: ## Generate RSS feed for Soniox Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Soniox Blog feed)
+	$(Q)uv run feed_generators/soniox_blog.py
+	$(call print_success,Soniox Blog feed generated)
+
+.PHONY: feeds_soniox_full
+feeds_soniox_full: ## Generate RSS feed for Soniox Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Soniox Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/soniox_blog.py --full
+	$(call print_success,Soniox Blog feed generated - full reset)
+
+.PHONY: feeds_assemblyai
+feeds_assemblyai: ## Generate RSS feed for AssemblyAI Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating AssemblyAI Blog feed)
+	$(Q)uv run feed_generators/assemblyai_blog.py
+	$(call print_success,AssemblyAI Blog feed generated)
+
+.PHONY: feeds_assemblyai_full
+feeds_assemblyai_full: ## Generate RSS feed for AssemblyAI Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating AssemblyAI Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/assemblyai_blog.py --full
+	$(call print_success,AssemblyAI Blog feed generated - full reset)
+
+.PHONY: feeds_deepgram
+feeds_deepgram: ## Generate RSS feed for Deepgram Learn (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Deepgram Learn feed)
+	$(Q)uv run feed_generators/deepgram_blog.py
+	$(call print_success,Deepgram Learn feed generated)
+
+.PHONY: feeds_deepgram_full
+feeds_deepgram_full: ## Generate RSS feed for Deepgram Learn (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Deepgram Learn feed - FULL RESET)
+	$(Q)uv run feed_generators/deepgram_blog.py --full
+	$(call print_success,Deepgram Learn feed generated - full reset)
+
+.PHONY: feeds_speechmatics
+feeds_speechmatics: ## Generate RSS feed for Speechmatics Articles & News (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Speechmatics feed)
+	$(Q)uv run feed_generators/speechmatics_blog.py
+	$(call print_success,Speechmatics feed generated)
+
+.PHONY: feeds_speechmatics_full
+feeds_speechmatics_full: ## Generate RSS feed for Speechmatics Articles & News (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Speechmatics feed - FULL RESET)
+	$(Q)uv run feed_generators/speechmatics_blog.py --full
+	$(call print_success,Speechmatics feed generated - full reset)
+
+.PHONY: feeds_elevenlabs
+feeds_elevenlabs: ## Generate RSS feed for ElevenLabs Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating ElevenLabs Blog feed)
+	$(Q)uv run feed_generators/elevenlabs_blog.py
+	$(call print_success,ElevenLabs Blog feed generated)
+
+.PHONY: feeds_elevenlabs_full
+feeds_elevenlabs_full: ## Generate RSS feed for ElevenLabs Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating ElevenLabs Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/elevenlabs_blog.py --full
+	$(call print_success,ElevenLabs Blog feed generated - full reset)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)

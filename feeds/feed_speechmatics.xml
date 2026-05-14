@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Speechmatics Articles &amp; News</title>
+    <link>https://www.speechmatics.com/company/articles-and-news</link>
+    <description>Speech-to-text, voice AI, and product news from Speechmatics</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_speechmatics.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 02:05:40 +0000</lastBuildDate>
+    <item>
+      <title>How to build a microbatching workflow with the Speechmatics API</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/how-to-build-a-microbatching-workflow-with-the-speechmatics-api</link>
+      <description>Learn how to build a micro-batching workflow with the Speechmatics API, from chunk sizing and retries to JSON stitching and scaling.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/how-to-build-a-microbatching-workflow-with-the-speechmatics-api</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alphanumeric speech recognition: why voice assistants mangle SKUs (and how to fix it)</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/alphanumeric-speech-recognition-why-voice-assistants-mangle-skus-and-how-to-fix-it</link>
+      <description>Why voice assistants mishear SKUs, model numbers and codes, and how ASR teams can fix alphanumeric recognition.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/alphanumeric-speech-recognition-why-voice-assistants-mangle-skus-and-how-to-fix-it</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Adobe story: How we made cloud-grade AI work on your laptop</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/the-adobe-story-how-we-made-cloud-grade-ai-work-on-your-laptop</link>
+      <description>How Speechmatics built cloud-grade speech recognition for Adobe Premiere, then took on Whisper to keep raising the bar.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/the-adobe-story-how-we-made-cloud-grade-ai-work-on-your-laptop</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe and Speechmatics deliver cloud-grade speech recognition on-device for Premiere</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/adobe-and-speechmatics-deliver-cloud-grade-speech-recognition-on-device-for-premiere</link>
+      <description>Speechmatics and Adobe bring near-cloud accuracy speech recognition on-device to Premiere — private, offline, and built for professional creators.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/adobe-and-speechmatics-deliver-cloud-grade-speech-recognition-on-device-for-premiere</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best speech-to-text AI guide: APIs, platforms and services compared</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/best-speech-to-text-ai-guide-apis-platforms-and-services-compared</link>
+      <description>Compare the best speech-to-text AI platforms of 2026, including Speechmatics, Deepgram, AssemblyAI and more — find the right API for your use case.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/best-speech-to-text-ai-guide-apis-platforms-and-services-compared</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI can now understand health signals from 15 seconds of your voice, including fatigue, stress and type 2 diabetes</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/ai-can-now-understand-health-signals-from-15-seconds-of-your-voice-including-fatigue-stress-and-type-2-diabetes</link>
+      <description>Speechmatics and thymia launch voice AI that detects 30-plus health signals from 15 seconds of speech, alongside standard transcription.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/ai-can-now-understand-health-signals-from-15-seconds-of-your-voice-including-fatigue-stress-and-type-2-diabetes</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speed you can trust: The STT metrics that matter for voice agents</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/speed-you-can-trust-the-stt-metrics-that-matter-for-voice-agents</link>
+      <description>Which speech-to-text latency metrics actually matter for voice agents? A deep dive into TTFS, accuracy, and why Pipecat’s benchmarks change the convo.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/speed-you-can-trust-the-stt-metrics-that-matter-for-voice-agents</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speechmatics and Cekura bring real-world STT testing to voice agent pipelines</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/speechmatics-and-cekura-bring-real-world-stt-testing-to-voice-agent</link>
+      <description>A new Speechmatics and Cekura integration helps voice agent teams test STT in real production conditions, not just clean-audio demos.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/speechmatics-and-cekura-bring-real-world-stt-testing-to-voice-agent</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech-to-text in production: what 36 years of hard lessons taught me</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/speech-to-text-in-production-what-36-years-of-hard-lessons-taught-me</link>
+      <description>From latency to turn detection, Dr Tony Robinson shares what 36 years in speech-to-text taught him about building Voice AI that works in production.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/speech-to-text-in-production-what-36-years-of-hard-lessons-taught-me</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Word Error Rate Is Acceptable for Legal Transcription?</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/acceptable-word-error-rate-legal-transcription</link>
+      <description>What word error rate is acceptable for legal transcription? Learn how WER, legal risk, review obligations, and transcript use cases affect accuracy.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/acceptable-word-error-rate-legal-transcription</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best TTS APIs in 2026: ElevenLabs, Google, AWS &amp;amp; 9 More Compared</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/best-tts-apis-in-2025-top-12-text-to-speech-services-for-developers</link>
+      <description>Independent comparison of 12 TTS APIs including ElevenLabs, Google Cloud, Amazon Polly and Speechmatics. Ranked by latency, pricing and voice quality.</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/best-tts-apis-in-2025-top-12-text-to-speech-services-for-developers</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blog &amp;amp; Latest Speech Recognition News| Speechmatics</title>
+      <link>https://www.speechmatics.com/company/articles-and-news/articles</link>
+      <description>Stay up-to-date with the very latest product news, company news and artificial intelligence (AI) research. Bookmark our technology blog today!</description>
+      <guid isPermaLink="false">https://www.speechmatics.com/company/articles-and-news/articles</guid>
+      <category>Articles &amp; News</category>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Deepgram Learn</title>
+    <link>https://deepgram.com/learn</link>
+    <description>Voice AI, speech-to-text, and developer content from Deepgram</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_deepgram.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 02:05:46 +0000</lastBuildDate>
+    <item>
+      <title>Speech Recognition in AI: A Beginner’s Guide</title>
+      <link>https://deepgram.com/learn/speech-recognition-ai-beginners-guide</link>
+      <description>Learn how speech recognition works, where it fails in production, and how to evaluate and build your first integration with a speech-to-text API.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/speech-recognition-ai-beginners-guide</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Menu Data is Like a Box of Chocolates: What Happens When You Give Engineers the Keys and a Coke Zero, Part 2</title>
+      <link>https://deepgram.com/learn/deepgram-for-restaurants-engineering-culture-part-2</link>
+      <description>Drive-thru menu data can be messy. AI must translate customer orders into systems, requiring context awareness and constant updates—making voice-based ordering far more complex than it seems. Here&amp;#x27;s how we do it.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-for-restaurants-engineering-culture-part-2</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech Recognition: How It Works and Applications</title>
+      <link>https://deepgram.com/learn/speech-recognition-how-it-works-and-key-applications</link>
+      <description>Learn how speech recognition works, the model types you&amp;#x27;ll encounter, and what separates production-grade ASR from demo performance. Built for developers.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/speech-recognition-how-it-works-and-key-applications</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram vs Speechmatics vs AssemblyAI: 2026 Guide</title>
+      <link>https://deepgram.com/learn/deepgram-vs-speechmatics-vs-assemblyai</link>
+      <description>Compare Deepgram, Speechmatics, and AssemblyAI on latency, pricing, language support, and deployment. Find the right STT provider for your production workload.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-vs-speechmatics-vs-assemblyai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Vocabulary Speech Recognition: A Practical Guide</title>
+      <link>https://deepgram.com/learn/large-vocabulary-speech-recognition</link>
+      <description>Learn when Keyterm Prompting solves your OOV problem and when custom model training is the right path. A practical framework for production speech recognition.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/large-vocabulary-speech-recognition</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram vs Google vs Azure: Which Cloud Provider Wins at STT?</title>
+      <link>https://deepgram.com/learn/deepgram-vs-google-vs-azure-speech-to-text</link>
+      <description>Compare Deepgram, Google Cloud, and Azure speech-to-text on real TCO, latency, compliance, and deployment flexibility. Find the right STT provider for your stack.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-vs-google-vs-azure-speech-to-text</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech-to-Text for Contact Centers: Best APIs 2026</title>
+      <link>https://deepgram.com/learn/speech-to-text-contact-centers-api-call-volume</link>
+      <description>Learn which STT APIs handle real telephony conditions—narrowband audio, speaker overlap, and alphanumeric input—at contact center scale. Includes evaluation guidance.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/speech-to-text-contact-centers-api-call-volume</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real-Time Speech-to-Speech Translation: Architecture Guide</title>
+      <link>https://deepgram.com/learn/real-time-speech-to-speech-translation</link>
+      <description>Build a cascaded speech-to-speech pipeline under 500ms latency. Learn ASR, MT, and TTS architecture decisions, streaming setup, and production scaling strategies.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/real-time-speech-to-speech-translation</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Voice Recognition: A Beginner&amp;#x27;s Guide (2026)</title>
+      <link>https://deepgram.com/learn/ai-voice-recognition-beginners-guide</link>
+      <description>Learn how AI voice recognition works, what affects accuracy, and how to evaluate solutions for contact centers, healthcare, and enterprise use.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/ai-voice-recognition-beginners-guide</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speech Recognition in AI: A Beginner&amp;#x27;s Guide</title>
+      <link>https://deepgram.com/learn/speech-recognition-in-ai-a-beginners-guide</link>
+      <description>Learn how speech recognition works, evaluate APIs, avoid real-world failures, and build your first production-ready speech-to-text integration.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/speech-recognition-in-ai-a-beginners-guide</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram vs Speechmatics vs Rev AI: Scale Comparison</title>
+      <link>https://deepgram.com/learn/deepgram-vs-speechmatics-vs-rev-ai</link>
+      <description>Compare Deepgram, Speechmatics, and Rev AI on concurrency limits, pricing models, latency, and compliance. Find which transcription API scales best for your workload.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-vs-speechmatics-vs-rev-ai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Master Real-Time Transcription for Any Workflow</title>
+      <link>https://deepgram.com/learn/master-real-time-transcription-for-any-workflow</link>
+      <description>A six-phase roadmap to take real-time transcription from POC to production—covering requirements, benchmarking, integration, accuracy tuning, scaling, and compliance—while avoiding costly 4–12 week rework.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/master-real-time-transcription-for-any-workflow</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Call Centers: Benefits and Best Practice Guide</title>
+      <link>https://deepgram.com/learn/ai-for-call-centers-guide</link>
+      <description>Learn how AI for call centers cuts costs, improves QA, and boosts agent performance. A plain-language guide to use cases, ROI, and deployment best practices.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/ai-for-call-centers-guide</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Voice Agents Work: A Beginner&amp;#x27;s Guide</title>
+      <link>https://deepgram.com/learn/ai-voice-recognition-beginners-guide-2026</link>
+      <description>Learn how AI voice recognition works, where accuracy gaps hide, and what to evaluate before choosing a solution for contact centers, healthcare, or enterprise use.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/ai-voice-recognition-beginners-guide-2026</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flux Multilingual Technical Deep Dive: Multilingual Speech-to-Text Without the Routing Mess</title>
+      <link>https://deepgram.com/learn/flux-multilingual-technical-deep-dive</link>
+      <description>How Deepgram Flux Multilingual and its new `language_hint` parameter collapse multilingual voice infrastructure into a single real-time streaming connection.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/flux-multilingual-technical-deep-dive</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Flux Multilingual: One Conversational Speech Model for Global Voice Agents</title>
+      <link>https://deepgram.com/learn/introducing-flux-multilingual</link>
+      <description>Conversational speech recognition across 10 languages in a single API. Monolingual-grade accuracy without per-language infrastructure or rebuilding your stack.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/introducing-flux-multilingual</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Voice Agent Services for Business: A 2026 Guide</title>
+      <link>https://deepgram.com/learn/ai-voice-agent-services-for-businesses</link>
+      <description>Compare AI voice agent services on latency, noise tolerance, pricing, and compliance. Use this framework to run a real-world POC before you commit budget.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/ai-voice-agent-services-for-businesses</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram Launches Flux Multilingual: The World’s First Multilingual Conversational Speech Recognition Model</title>
+      <link>https://deepgram.com/learn/deepgram-launches-flux-multilingual-press-release</link>
+      <description>One model, ten languages, and monolingual-grade accuracy for voice agents worldwide</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-launches-flux-multilingual-press-release</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best Voice AI for Banking in 2026: Platform Guide</title>
+      <link>https://deepgram.com/learn/best-voice-ai-platforms-banking</link>
+      <description>Compare voice AI platforms for banking on accuracy, compliance, and cost at scale. See how API infrastructure vs. pre-built platforms fit your environment.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/best-voice-ai-platforms-banking</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best 5 vapi AI alternatives for voice apps in 2026</title>
+      <link>https://deepgram.com/learn/best-vapi-ai-alternatives</link>
+      <description>Compare the best vapi AI alternatives on STT accuracy, pricing transparency, and deployment flexibility. Find the right platform for production voice apps.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/best-vapi-ai-alternatives</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Voice AI Works: From Sound Waves to Smart Conversations</title>
+      <link>https://deepgram.com/learn/how-voice-ai-works</link>
+      <description>Learn how voice AI pipelines work—from ASR and NLU to TTS—and where latency, accuracy, and compliance decisions shape production outcomes.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/how-voice-ai-works</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram Agentic Engineering Tools for Voice AI Builders | Deepgram</title>
+      <link>https://deepgram.com/learn/agentic-engineering-tools-for-voice-ai-builders</link>
+      <description>Build voice agents faster with the dg CLI, MCP server, and the deepgram/skills repo. Three agentic engineering tools that make Deepgram a first-class citizen in Claude Code, Cursor, Windsurf, Codex, and Aider.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/agentic-engineering-tools-for-voice-ai-builders</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>A margin doomspiral is happening in QSR, and voice AI is here to save your P&amp;amp;L</title>
+      <link>https://deepgram.com/learn/voice-ai-saves-margin-doomspiral-in-qsr</link>
+      <description>The QSR industry is stuck in a doomspiral. Rising labor costs and a shrinking applicant pool lead to 130% annual turnover, which leads to undertrained staff, lost revenue, and pressure to cut costs. Here&amp;#x27;s how Voice AI fixes these problems.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/voice-ai-saves-margin-doomspiral-in-qsr</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>On-Premise Speech-to-Text: Which STT API Offers True Data Control?</title>
+      <link>https://deepgram.com/learn/on-premise-stt-comparison</link>
+      <description>When strict data control is required, the list of viable speech-to-text vendors narrows quickly. This comparison examines what Deepgram, Speechmatics, AssemblyAI, AWS, and Google Cloud publicly support for deployments that keep audio off vendor-managed infrastructure.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/on-premise-stt-comparison</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram vs Twilio: Real-Time Transcription Guide</title>
+      <link>https://deepgram.com/learn/deepgram-vs-twilio-real-time-transcription</link>
+      <description>Deepgram vs Twilio compared for real-time transcription. Learn when to use ConversationRelay vs Deepgram&amp;#x27;s direct API for STT control, compliance, and cost.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-vs-twilio-real-time-transcription</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram vs Amazon Transcribe: 2026 Comparison</title>
+      <link>https://deepgram.com/learn/deepgram-vs-amazon-transcribe</link>
+      <description>Compare Deepgram and Amazon Transcribe on accuracy, latency, pricing, and deployment to find the right fit for your voice app in 2026.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/deepgram-vs-amazon-transcribe</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Drive-Thru: Voice AI for QSR Order Taking</title>
+      <link>https://deepgram.com/learn/ai-drive-thru-voice-ai-order-taking</link>
+      <description>Voice AI is reshaping QSR drive-thrus. See what production data shows about accuracy, POS integration, and scaling across locations.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/ai-drive-thru-voice-ai-order-taking</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser Agent SDK: Ship a Voice Agent on Any Web App in Minutes | Deepgram</title>
+      <link>https://deepgram.com/learn/browser-agent-sdk</link>
+      <description>The Browser Agent SDK is four composable npm packages that drop a Deepgram voice agent into any web app, with a clean path from one-line widget to full framework-agnostic control.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/browser-agent-sdk</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your restaurant needs to speak Spanish, y ahora puede.</title>
+      <link>https://deepgram.com/learn/your-restaurant-needs-to-speak-spanish</link>
+      <description>Deepgram Flux Multilingual helps restaurants deliver faster, more accurate multilingual ordering with real-time code-switching Voice AI across 10 languages. Check it out!</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/your-restaurant-needs-to-speak-spanish</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deepgram Blog | AI, Engineering &amp;amp; More | Deepgram</title>
+      <link>https://deepgram.com/learn/article</link>
+      <description>Explore the latest in Voice AI on our blog. Discover advancements, tips, and trends in voice technology, plus everything about the AI world.</description>
+      <guid isPermaLink="false">https://deepgram.com/learn/article</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:31 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ElevenLabs Blog</title>
+    <link>https://elevenlabs.io/blog</link>
+    <description>Voice AI, text-to-speech, and product updates from ElevenLabs</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_elevenlabs.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 02:09:15 +0000</lastBuildDate>
+    <item>
+      <title>ElevenLabs expands presence in Australia and New Zealand</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-expands-presence-in-australia-new-zealand</link>
+      <description>ElevenLabs already serves 750,000 users across the region. Now it is tripling its local team, adding sales specialists and forward-deployed engineers.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/elevenlabs-expands-presence-in-australia-new-zealand</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 07 May 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs crosses $500M ARR and welcomes new investors</title>
+      <link>https://elevenlabs.io/blog/500m-arr-and-new-investors</link>
+      <description>New investors include institutions like BlackRock and Wellington, enterprises like NVIDIA and Santander, and actors like Jamie Foxx and Eva Longoria.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/500m-arr-and-new-investors</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenMusic: discover, remix, create, and earn from music</title>
+      <link>https://elevenlabs.io/blog/introducing-elevenmusic</link>
+      <description>The AI-powered platform for music discovery and creation, built on top of the ElevenLabs fully licensed music model.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-elevenmusic</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs is opening a Madrid office and expanding in Spain</title>
+      <link>https://elevenlabs.io/blog/expanding-in-spain</link>
+      <description>The company will hire into local sales and engineering teams to work closely with Spanish companies as they deploy AI.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/expanding-in-spain</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise voice AI, deployed locally</title>
+      <link>https://elevenlabs.io/blog/enterprise-voice-ai-deployed-locally</link>
+      <description>ElevenLabs can now be deployed on-premise and on-device. This expands our deployment options beyond cloud and VPC, to cover the full range of enterprise environments.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/enterprise-voice-ai-deployed-locally</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling multilingual diplomacy during the Polish presidency of the Council of the EU</title>
+      <link>https://elevenlabs.io/blog/scaling-multilingual-diplomacy-during-the-polish-presidency-of-the-council-of-the-eu</link>
+      <description>How the Polish Presidency used ElevenLabs to dub ministerial meetings at scale.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/scaling-multilingual-diplomacy-during-the-polish-presidency-of-the-council-of-the-eu</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eric Dane&amp;#x27;s Legacy at SXSW: Advancing 1 Million Voices</title>
+      <link>https://elevenlabs.io/blog/honoring-eric-danes-legacy-at-sxsw-advancing-1-million-voices</link>
+      <description>This year at SXSW, actor Rebecca Gayheart Dane joins ElevenLabs to honor Eric’s legacy and continue the advocacy work he cared so deeply about.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/honoring-eric-danes-legacy-at-sxsw-advancing-1-million-voices</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs and Bookwire sign publishing partnership</title>
+      <link>https://elevenlabs.io/blog/bookwire</link>
+      <description>ElevenLabs and Bookwire to make a wide catalog of ebooks available in high-quality audio in over a dozen languages in the ElevenReader app</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/bookwire</guid>
+      <category>Blog</category>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Klarna reduces Time to Resolution by 10X with ElevenAgents</title>
+      <link>https://elevenlabs.io/blog/klarna</link>
+      <description>Klarna cut resolution times 10x for 35M US customers using ElevenLabs&amp;#x27; voice AI as first-line phone support.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/klarna</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ElevenLabs for Government</title>
+      <link>https://elevenlabs.io/blog/introducing-elevenlabs-for-government</link>
+      <description>Introducing ElevenLabs for Government</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-elevenlabs-for-government</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs raises $500M Series D at $11B valuation</title>
+      <link>https://elevenlabs.io/blog/series-d</link>
+      <description>We are doubling down on ElevenAgents and conversational voice models to transform how we interact with technology</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/series-d</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eleven v3 is Now Generally Available</title>
+      <link>https://elevenlabs.io/blog/eleven-v3-is-now-generally-available</link>
+      <description>Eleven v3 is Now Generally Available</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/eleven-v3-is-now-generally-available</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs is an official partner of Audi Revolut F1 Team</title>
+      <link>https://elevenlabs.io/blog/we-are-on-the-grid</link>
+      <description>We’re exploring how our technology can support the team at the track while also transforming how fans around the world experience and connect with the sport.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/we-are-on-the-grid</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revolut selects ElevenLabs Agents to bolster customer support</title>
+      <link>https://elevenlabs.io/blog/revolut</link>
+      <description>Reducing time to ticket resolution by 8x with multilingual conversational agents.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/revolut</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing The Eleven Album: A landmark musical release</title>
+      <link>https://elevenlabs.io/blog/introducing-the-eleven-album</link>
+      <description>Created in collaboration with world-class artists and Eleven Music, our model for generating fully original, studio-quality compositions.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-the-eleven-album</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MasterClass brings AI instructors to life with ElevenLabs</title>
+      <link>https://elevenlabs.io/blog/masterclass</link>
+      <description>75% of users prefer voice interactions with MasterClass On Call</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/masterclass</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Telekom and ElevenLabs announce partnership</title>
+      <link>https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership</link>
+      <description>Bringing ElevenLabs&amp;#x27; AI voice agents to the customer service of Europe’s largest Telco (via app and phone).</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Scribe v2</title>
+      <link>https://elevenlabs.io/blog/introducing-scribe-v2</link>
+      <description>Introducing Scribe v2</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-scribe-v2</guid>
+      <category>Blog</category>
+      <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs — Freedom Forever cuts customer support costs by 90% using ElevenLabs Agents</title>
+      <link>https://elevenlabs.io/blog/freedom-forever</link>
+      <description>Freedom Forever migrated its inbound support operations to ElevenLabs Agents, reducing cost per call by 90% and human agent headcount by 50%, while delivering zero hold times and a significant drop in call abandonment rates.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/freedom-forever</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toyota engages fans with AI-powered Brock Purdy experience</title>
+      <link>https://elevenlabs.io/blog/toyota</link>
+      <description>Driving deeper engagement with nearly 2 minutes of average interaction time per user</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/toyota</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TVS Motor Company deploys multimodal AI agents using ElevenLabs</title>
+      <link>https://elevenlabs.io/blog/tvs-motor-multimodal-agents</link>
+      <description>TVS Motor Company deploys multimodal AI agents using ElevenLabs</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/tvs-motor-multimodal-agents</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 01 Dec 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With Liberty Global we&amp;#x27;re bringing voice AI to millions of households</title>
+      <link>https://elevenlabs.io/blog/liberty-global-partnership</link>
+      <description>Our commercial partnership also marks the next step in our European expansion</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/liberty-global-partnership</guid>
+      <category>Blog</category>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs — Introducing ElevenLabs Image &amp;amp; Video</title>
+      <link>https://elevenlabs.io/blog/introducing-elevenlabs-image-and-video</link>
+      <description>The best audio, image, and video models. Use Veo, Sora, Kling, Wan, Seedance for visuals, then combine with voices, music, and SFX from ElevenLabs.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-elevenlabs-image-and-video</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 17 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harvey and ElevenLabs Partner to Give Lawyers a Global Voice</title>
+      <link>https://elevenlabs.io/blog/harvey</link>
+      <description>Making legal knowledge more accessible and human across jurisdictions and cultures</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/harvey</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honoring veterans and their voices: Lt Col Thomas Brittingham’s story</title>
+      <link>https://elevenlabs.io/blog/honoring-veterans-and-their-voices-lt-col-thomas-brittinghams-story</link>
+      <description>Honoring veterans and their voices: Lt Col Thomas Brittingham’s story</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/honoring-veterans-and-their-voices-lt-col-thomas-brittinghams-story</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sir Michael Caine joins ElevenLabs&amp;#x27; new Iconic Marketplace</title>
+      <link>https://elevenlabs.io/blog/announcing-partnership-with-sir-michael-caine-to-newly-launched-iconic-marketplace</link>
+      <description>Sir Michael Caine joins ElevenLabs&amp;#x27; new Iconic Marketplace</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/announcing-partnership-with-sir-michael-caine-to-newly-launched-iconic-marketplace</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Scribe v2 Realtime</title>
+      <link>https://elevenlabs.io/blog/introducing-scribe-v2-realtime</link>
+      <description>Introducing Scribe v2 Realtime</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-scribe-v2-realtime</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs welcomes Matthew McConaughey as a new investor</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-welcomes-matthew-mcconaughey-as-new-investor</link>
+      <description>ElevenLabs welcomes Matthew McConaughey as a new investor</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/elevenlabs-welcomes-matthew-mcconaughey-as-new-investor</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building the First Agentic Government with Ukraine</title>
+      <link>https://elevenlabs.io/blog/building-the-first-agentic-government-with-ukraine</link>
+      <description>We&amp;#x27;re partnering with Ukraine&amp;#x27;s Ministry of Digital Transformation to make public services work by voice for everyone with AI</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/building-the-first-agentic-government-with-ukraine</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs UI: Open-source agent components for the web</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-ui</link>
+      <description>ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/elevenlabs-ui</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs - Workflows, our visual conversation flow editor.</title>
+      <link>https://elevenlabs.io/blog/introducing-agent-workflows</link>
+      <description>Agent Workflows let you handle complex scenarios by routing to specialized Subagents and, when needed, transferring to human operators.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-agent-workflows</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immobiliare.it builds conversational real estate agent in days using ElevenLabs</title>
+      <link>https://elevenlabs.io/blog/immobiliare</link>
+      <description>Immobiliare.it builds conversational real estate agent in days using ElevenLabs</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/immobiliare</guid>
+      <category>Blog</category>
+      <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian Public Services Will Speak Through AI: Announcing a Partnership with ElevenLabs</title>
+      <link>https://elevenlabs.io/blog/ukrainian-public-services</link>
+      <description>Ukraine adds voice to key public services</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/ukrainian-public-services</guid>
+      <category>Blog</category>
+      <pubDate>Sat, 27 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traba deploys AI interview agents to scale industrial staffing</title>
+      <link>https://elevenlabs.io/blog/traba</link>
+      <description>Over 250,000 interviews automated leveraging ElevenLabs Agents</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/traba</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voice AI for India Scale - Scaling Engagement &amp;amp; Storytelling</title>
+      <link>https://elevenlabs.io/blog/voice-ai-for-india-scale</link>
+      <description>Marking a year of rapid development from India’s top enterprises, startups, and creators scaling customer engagement and storytelling</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/voice-ai-for-india-scale</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 23 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs — ElevenLabs scales UK and US presence</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-scales-uk-and-us-presence</link>
+      <description>ElevenLabs is building local talent hubs and infrastructure to deliver real-time AI audio for enterprises globally</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/elevenlabs-scales-uk-and-us-presence</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding into Brazil - ElevenLabs Launches Iconic Partnership with Fábio Porchat</title>
+      <link>https://elevenlabs.io/blog/fabio-porchat</link>
+      <description>Launching our first campaign in Brazil with iconic AI voice</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/fabio-porchat</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 08 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs — Introducing ElevenLabs Agents</title>
+      <link>https://elevenlabs.io/blog/introducing-elevenlabs-agents</link>
+      <description>We’re renaming Conversational AI to ElevenLabs Agents, a better reflection of our complete platform for launching conversational agents that talk, type and take action across phone, web and apps.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/introducing-elevenlabs-agents</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eleven Music is here</title>
+      <link>https://elevenlabs.io/blog/eleven-music-is-here</link>
+      <description>Studio-grade music generated with natural language prompts in any style and for countless uses</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/eleven-music-is-here</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs powers voice for Cisco’s Webex AI Agent</title>
+      <link>https://elevenlabs.io/blog/cisco-webex</link>
+      <description>We&amp;#x27;re thrilled that ElevenLabs is now powering the voice technology behind the Webex AI Agent</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/cisco-webex</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eleven v3: Most Expressive AI TTS Model Launched</title>
+      <link>https://elevenlabs.io/blog/eleven-v3</link>
+      <description>Eleven v3 (alpha) introduces advanced audio tags, dialogue mode, and 70+ languages for nuanced, emotionally rich AI-generated speech.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/eleven-v3</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs establishes Japanese Subsidiary, ElevenLabs G.K.</title>
+      <link>https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk</link>
+      <description>Global AI voice technology leader expands to Asia-Pacific region, launching international hub in Japan</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 14 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deutsche Telekom and ElevenLabs Announce Strategic Partnership to Power AI-Driven Podcasting in Magenta App</title>
+      <link>https://elevenlabs.io/blog/deutsche-telekom-magenta-ai</link>
+      <description>Bringing AI-powered audio experiences to millions of users</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/deutsche-telekom-magenta-ai</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs AI voices helping train 911 dispatchers</title>
+      <link>https://elevenlabs.io/blog/ai-voices-helping-train-911-dispatchers</link>
+      <description>ElevenLabs AI voices are helping ThisGen.ai train 911 emergency dispatchers to handle a range of calls and scenarios.</description>
+      <guid isPermaLink="false">https://elevenlabs.io/blog/ai-voices-helping-train-911-dispatchers</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

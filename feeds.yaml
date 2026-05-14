@@ -139,3 +139,30 @@ feeds:
     script: xainews_blog.py
     type: selenium
     blog_url: https://x.ai/news
+
+  # ----- Orato fork additions: ASR / voice-AI vendors -----
+
+  soniox:
+    script: soniox_blog.py
+    type: requests
+    blog_url: https://soniox.com/blog
+
+  assemblyai:
+    script: assemblyai_blog.py
+    type: requests
+    blog_url: https://www.assemblyai.com/blog
+
+  deepgram:
+    script: deepgram_blog.py
+    type: requests
+    blog_url: https://deepgram.com/learn
+
+  speechmatics:
+    script: speechmatics_blog.py
+    type: requests
+    blog_url: https://www.speechmatics.com/company/articles-and-news
+
+  elevenlabs:
+    script: elevenlabs_blog.py
+    type: requests
+    blog_url: https://elevenlabs.io/blog

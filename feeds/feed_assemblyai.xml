@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AssemblyAI Blog</title>
+    <link>https://www.assemblyai.com/blog</link>
+    <description>Speech-to-text, audio intelligence, and ML research from AssemblyAI</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_assemblyai.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 May 2026 02:05:41 +0000</lastBuildDate>
+    <item>
+      <title>Build Powerful Speech AI Apps with AssemblyAI &amp;amp; Speaker Diarization Tutorials</title>
+      <link>https://www.assemblyai.com/blog/assemblyai-newsletter-52</link>
+      <description>Build Powerful Speech AI Apps with AssemblyAI &amp;amp; Speaker Diarization Tutorials</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/assemblyai-newsletter-52</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced diarization + Dovetail case study + G2 wins</title>
+      <link>https://www.assemblyai.com/blog/newsletter-enhanced-diarization-dovetail-case-study-g2-wins</link>
+      <description>Enhanced diarization + Dovetail case study + G2 wins</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/newsletter-enhanced-diarization-dovetail-case-study-g2-wins</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced diarization + Dovetail case study + G2 wins</title>
+      <link>https://www.assemblyai.com/blog/newsletter-august-1-2025</link>
+      <description>Enhanced diarization + Dovetail case study + G2 wins</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/newsletter-august-1-2025</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 29, 2025 Newsletter</title>
+      <link>https://www.assemblyai.com/blog/newsletter-august-29</link>
+      <description>August 29, 2025 Newsletter</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/newsletter-august-29</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Setting an AI strategy in 2025: Top advice from leading founders</title>
+      <link>https://www.assemblyai.com/blog/assembly-required-ai-founders-building-with-ai</link>
+      <description>Setting an AI strategy in 2025: Top advice from leading founders</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/assembly-required-ai-founders-building-with-ai</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicting the future: What top AI founders have to say about innovation in 2025</title>
+      <link>https://www.assemblyai.com/blog/assembly-required-ai-innovation</link>
+      <description>Predicting the future: What top AI founders have to say about innovation in 2025</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/assembly-required-ai-innovation</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ongoing need for human-in-the-loop in conversation intelligence</title>
+      <link>https://www.assemblyai.com/blog/human-in-the-loop-conversation-intelligence</link>
+      <description>The ongoing need for human-in-the-loop in conversation intelligence</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/human-in-the-loop-conversation-intelligence</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real-time conversation intelligence: The shift from post-call analysis to live insights</title>
+      <link>https://www.assemblyai.com/blog/real-time-conversation-intelligence</link>
+      <description>Real-time conversation intelligence: The shift from post-call analysis to live insights</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/real-time-conversation-intelligence</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>New 2026 insights report: What actually makes a good voice agent</title>
+      <link>https://www.assemblyai.com/blog/new-2026-insights-report-what-actually-makes-a-good-voice-agent</link>
+      <description>New 2026 insights report: What actually makes a good voice agent</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/new-2026-insights-report-what-actually-makes-a-good-voice-agent</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside AssemblyAI&amp;#x27;s NYC voice agents January 2026 meetup: Production insights from the front lines</title>
+      <link>https://www.assemblyai.com/blog/nyc-voice-agents-meetup-january-2026</link>
+      <description>Inside AssemblyAI&amp;#x27;s NYC voice agents January 2026 meetup: Production insights from the front lines</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/nyc-voice-agents-meetup-january-2026</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voice AI in 2026: Inside the companies and investments shaping the future of speech</title>
+      <link>https://www.assemblyai.com/blog/voice-ai-in-2026-series-1</link>
+      <description>Voice AI in 2026: Inside the companies and investments shaping the future of speech</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/voice-ai-in-2026-series-1</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://www.assemblyai.com/blog/g2-spring-2026-voice-recognition-report</title>
+      <link>https://www.assemblyai.com/blog/g2-spring-2026-voice-recognition-report</link>
+      <description>https://www.assemblyai.com/blog/g2-spring-2026-voice-recognition-report</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/g2-spring-2026-voice-recognition-report</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voice AI guardrails: Built-in protection for compliance, quality, and cost control</title>
+      <link>https://www.assemblyai.com/blog/voice-ai-guardrails-built-in-protection-compliance-quality-cost-control</link>
+      <description>Voice AI guardrails: Built-in protection for compliance, quality, and cost control</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/voice-ai-guardrails-built-in-protection-compliance-quality-cost-control</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming diarization just got a major upgrade</title>
+      <link>https://www.assemblyai.com/blog/streaming-diarization-major-upgrade</link>
+      <description>Streaming diarization just got a major upgrade</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/streaming-diarization-major-upgrade</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM Gateway: The easiest and most reliable way to call multiple LLMs</title>
+      <link>https://www.assemblyai.com/blog/reintroducing-llm-gateway</link>
+      <description>LLM Gateway: The easiest and most reliable way to call multiple LLMs</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/reintroducing-llm-gateway</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why your word error rate (WER) benchmark might be lying to you</title>
+      <link>https://www.assemblyai.com/blog/new-word-error-rate-wer-benchmark</link>
+      <description>Why your word error rate (WER) benchmark might be lying to you</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/new-word-error-rate-wer-benchmark</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to evaluate speech recognition models</title>
+      <link>https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models</link>
+      <description>How to evaluate speech recognition models</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing our Voice Agent API</title>
+      <link>https://www.assemblyai.com/blog/introducing-our-voice-agent-api</link>
+      <description>Introducing our Voice Agent API</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/introducing-our-voice-agent-api</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raw WebSocket Voice Agent with AssemblyAI&amp;#x27;s Voice Agent API</title>
+      <link>https://www.assemblyai.com/blog/raw-websocket-voice-agent-voice-agent-api</link>
+      <description>Raw WebSocket Voice Agent with AssemblyAI&amp;#x27;s Voice Agent API</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/raw-websocket-voice-agent-voice-agent-api</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to vibe code a voice agent with AssemblyAI&amp;#x27;s Voice Agent API</title>
+      <link>https://www.assemblyai.com/blog/vibe-code-voice-agent-with-assemblyai-voice-agent-api</link>
+      <description>How to vibe code a voice agent with AssemblyAI&amp;#x27;s Voice Agent API</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/vibe-code-voice-agent-with-assemblyai-voice-agent-api</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 LLM use cases and applications in 2026</title>
+      <link>https://www.assemblyai.com/blog/llm-use-cases</link>
+      <description>7 LLM use cases and applications in 2026</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/llm-use-cases</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extract phone call insights with LLMs in Python</title>
+      <link>https://www.assemblyai.com/blog/extract-call-insights-llms-python</link>
+      <description>Extract phone call insights with LLMs in Python</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/extract-call-insights-llms-python</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to summarize meetings with LLMs</title>
+      <link>https://www.assemblyai.com/blog/summarize-meetings-llms-python</link>
+      <description>How to summarize meetings with LLMs</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/summarize-meetings-llms-python</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build voice AI apps with LLM Gateway</title>
+      <link>https://www.assemblyai.com/blog/build-speech-ai-apps-with-lemur-llms</link>
+      <description>Build voice AI apps with LLM Gateway</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/build-speech-ai-apps-with-lemur-llms</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to add automatic LLM fallbacks to your voice pipeline</title>
+      <link>https://www.assemblyai.com/blog/how-to-add-automatic-llm-fallbacks-to-voice-pipeline</link>
+      <description>How to add automatic LLM fallbacks to your voice pipeline</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/how-to-add-automatic-llm-fallbacks-to-voice-pipeline</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AssemblyAI LLM Gateway vs. OpenRouter vs. LLM Gateway.io: Pricing, security, and reliability compared</title>
+      <link>https://www.assemblyai.com/blog/assemblyai-llm-gateway-vs-openrouter-vs-llm-gateway-io</link>
+      <description>AssemblyAI LLM Gateway vs. OpenRouter vs. LLM Gateway.io: Pricing, security, and reliability compared</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/assemblyai-llm-gateway-vs-openrouter-vs-llm-gateway-io</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stream LLM responses in a voice pipeline: Tool calling, structured outputs, and real-time actions</title>
+      <link>https://www.assemblyai.com/blog/stream-llm-responses-voice-pipeline-tool-calling-structured-outputs-real-time-actions</link>
+      <description>Stream LLM responses in a voice pipeline: Tool calling, structured outputs, and real-time actions</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/stream-llm-responses-voice-pipeline-tool-calling-structured-outputs-real-time-actions</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build an AI voice agent for customer support that can look up orders</title>
+      <link>https://www.assemblyai.com/blog/build-ai-voice-agent-for-customer-support</link>
+      <description>Build an AI voice agent for customer support that can look up orders</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/build-ai-voice-agent-for-customer-support</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a voice-powered e-commerce shopping assistant</title>
+      <link>https://www.assemblyai.com/blog/build-voice-powered-e-commerce-shopping-assistant</link>
+      <description>Building a voice-powered e-commerce shopping assistant</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/build-voice-powered-e-commerce-shopping-assistant</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build an AI scribe for therapy sessions</title>
+      <link>https://www.assemblyai.com/blog/how-to-build-ai-scribe-therapy</link>
+      <description>How to build an AI scribe for therapy sessions</description>
+      <guid isPermaLink="false">https://www.assemblyai.com/blog/how-to-build-ai-scribe-therapy</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 14 May 2026 02:05:30 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
